@@ -7,9 +7,18 @@ An Information Systems student passionately diving into the worlds of **Data Ana
 - 🌱 Expanding my stack with **Python**, **R**, and **Go**.
 - 🛠️ Experienced in creating web layouts (HTML/CSS) and small-scale Python/Flask apps.
 
-### 🛠️ Tech & Tools
-- **Languages:** Python, R, Go, JavaScript, HTML, CSS
-- **Frameworks/Libs:** Flask, Bootstrap
+## 🛠️ Tech Stack & Tools
+### 📊 Data Analysis & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 📊 GitHub Stats
 <p align="left">
