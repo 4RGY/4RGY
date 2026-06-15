@@ -1,20 +1,25 @@
-## Hi there👋
+# Hi there, I'm Argy Anggara 🚀
 
-Hi, I'm Argy Anggara a college student majoring in information systems who is interested in data analyst and programming.
+An Information Systems student passionately diving into the worlds of **Data Analysis** and **Software Development**. 
 
-- 🔭 I’m currently working on my life.
-- 🌱 I’m currently learning Python, R, and Go.
-<!--
-**4RGY/4RGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ What I Do
+- 🔭 Working on building solid foundations for my future tech career.
+- 🌱 Expanding my stack with **Python**, **R**, and **Go**.
+- 🛠️ Experienced in creating web layouts (HTML/CSS) and small-scale Python/Flask apps.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools
+- **Languages:** Python, R, Go, JavaScript, HTML, CSS
+- **Frameworks/Libs:** Flask, Bootstrap
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=4RGY&show_icons=true&theme=dark&hide_border=true" alt="Argy's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RGY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Let's Connect!
+- [Portfolio Website](https://angg4ra.pages.dev/id/)
+- Instagram: [@argy.avg](https://instagram.com/argy.avg)
+- X (Twitter): [@agooay](https://x.com/agooay)
