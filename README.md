@@ -1,4 +1,4 @@
-# Hi there, I'm Argy Anggara 🚀
+# Hi there, I'm Argy Anggara.
 
 An Information Systems student passionately diving into the worlds of **Data Analysis** and **Software Development**. 
 
