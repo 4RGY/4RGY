@@ -29,6 +29,6 @@ An Information Systems student passionately diving into the worlds of **Data Ana
 ---
 
 ### 🌐 Let's Connect!
-- [Portfolio Website](https://angg4ra.pages.dev/id/)
+- [Portfolio Website](https://angg4ra.my.id/id/)
 - Instagram: [@argy.avg](https://instagram.com/argy.avg)
 - X (Twitter): [@agooay](https://x.com/agooay)
