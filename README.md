@@ -1,11 +1,19 @@
-# Hi there, I'm Argy Anggara.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Argy+Anggara.;Data+%2F+AI+Engineer;Software+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
 An Information Systems student passionately diving into the worlds of **Data Analysis** and **Software Development**. 
 
 ### ⚙️ What I Do
-- 🔭 Working on building solid foundations for my future tech career.
-- 🌱 Expanding my stack with **Python**, **R**, and **Go**.
-- 🛠️ Experienced in creating web layouts (HTML/CSS) and small-scale Python/Flask apps.
+<details>
+  <summary><b>Click to expand</b></summary>
+  
+  - 🔭 Working on building solid foundations for my future tech career.
+  - 🌱 Expanding my stack with **Python**, **R**, and **Go**.
+  - 🛠️ Experienced in creating web layouts (HTML/CSS) and small-scale Python/Flask apps.
+</details>
 
 ## 🛠️ Tech Stack & Tools
 ### 📊 Data Analysis & Backend
@@ -25,6 +33,13 @@ An Information Systems student passionately diving into the worlds of **Data Ana
   <img src="https://github-readme-stats.vercel.app/api?username=4RGY&show_icons=true&theme=dark&hide_border=true" alt="Argy's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4RGY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
+
+### 🐍 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4RGY/4RGY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4RGY/4RGY/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4RGY/4RGY/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
