@@ -59,8 +59,3 @@ An Information Systems student turning ideas into shipped software — **Data An
 
 ### 💼 Open for Freelance
 Bot development, data work, automation — let's talk. Reach me via Telegram or open an issue on any repo.
-
-### 🌐 Let's Connect!
-- [Portfolio Website](https://angg4ra.my.id/id/)
-- Instagram: [@argy.avg](https://instagram.com/argy.avg)
-- X (Twitter): [@agooay](https://x.com/agooay)
